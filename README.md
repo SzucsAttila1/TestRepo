@@ -16,7 +16,6 @@ Számozott lista
 
 [Link](https://acsjszki.hu)
 
-`egysoros kód`
 
 ```javascript
 console.log("Hello");
