@@ -3,12 +3,12 @@
 
 Sima szöveg
 
-Felsorolás:
+## Felsorolás:
 - alma
 - körte 
 - banán
 
-Számozott lista
+## Számozott lista
 1. VSCode
 2. Brackets
 3. NotePad++
